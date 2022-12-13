@@ -1,2 +1,2 @@
 # Hello-World
-Writing "Hello, World!" in every programming language.
+Writing "Hello, World!" in most programming languages.
